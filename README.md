@@ -48,8 +48,8 @@ https://www.eclipse.org/downloads/packages/installer
 4. Once on the Welcome screen, click "Import existing projects".
 5. Click the "Select archive file" option and then select "Browse".
 6. Then browse for the project ZIP file and click "Open".
-7. After that, click "Finish" at the bottom. This should show a folder called "Vehicle" in the Package Explorer. 
-8. Double click the "Vehicle" folder and navigate to src > (default package) > Controller.java.
+7. After that, click "Finish" at the bottom. This should show a folder called "PRAJAPATI_17031142" in the Package Explorer. 
+8. Double click the "PRAJAPATI_17031142" folder and navigate to src > (default package) > Controller.java.
 9. Once selecting "Controller.java", click the small arrow next to the circle, green play button. 
 10. When the dropdown appears, navigate to "Run As" and click "Java Application". 
 11. This will then run the project, in which, you will see a menu appear in the console. 
