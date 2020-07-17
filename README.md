@@ -54,3 +54,20 @@ https://www.eclipse.org/downloads/packages/installer
 10. When the dropdown appears, navigate to "Run As" and click "Java Application". 
 11. This will then run the project, in which, you will see a menu appear in the console. 
 12. Enjoy!
+
+
+## Additional Information
+
+- Shows the vehicles in a HTML table in your browser:
+
+```bash
+localhost:8000/
+```
+
+
+- Allows the user to insert a vehicle using a HTML form:
+
+```bash
+localhost:8000/add_vehicle
+```
+
